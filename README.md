@@ -2,6 +2,7 @@
 
 Welcome to the **SURAKSHA -- Secure Document Query Application**! This powerful tool allows you to securely upload, search, and analyze documents with ease. Built using Streamlit, this app offers an intuitive interface and various features for managing your document queries efficiently.
 
+## 🕸️🕸️📲 [Live WebApp](https://suraksha.streamlit.app/)
 
 ## 📂 Folder Structure:
 
