@@ -34,7 +34,7 @@ secure-document-query-app/
 
 ## 🌟 **Web App Demo**
 
-![App Demo](recording.mp4)  
+[App Demo](recording.mp4) -- click to download Video of web app 
 _A visual representation of the app's user interface_
 
 
