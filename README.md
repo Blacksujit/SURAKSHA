@@ -78,8 +78,7 @@ To get started with the **Secure Document Query Application**, follow these step
 ### 1. **Clone the Repository**
 
 ```bash
-git clone https://github.com/your-username/your-repo.git
-cd your-repo
+git clone  https://github.com/Blacksujit/SURAKSHA_-Secure_Locker-.git
 
 ```
 
@@ -143,9 +142,9 @@ The application features a clean and modern UI with:
 
 ## 🔗 Links:
 
-1.) Streamlit Community Cloud - Platform for deploying Streamlit apps.
+1.) Streamlit Community Cloud - [Platform for deploying Streamlit apps.](https://share.streamlit.io/deploy?repository=Blacksujit%2FSURAKSHA_-Secure_Locker-&branch=main&mainModule=main.py)
 
-2.) GitHub Repository - Access the source code and contribute.
+2.) GitHub Repository -  https://github.com/Blacksujit/SURAKSHA_-Secure_Locker-.git
 
 ## 💬 Feedback & Contributions:
 
