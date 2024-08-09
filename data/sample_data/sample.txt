@@ -1,0 +1,5 @@
+Sample TXT Document
+
+This is a sample text file for testing purposes. It contains simple, plain text that should be easily parsed by the application.
+
+The quick brown fox jumps over the lazy dog.

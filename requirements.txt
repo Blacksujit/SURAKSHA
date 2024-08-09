@@ -1,0 +1,7 @@
+streamlit
+pandas
+sqlalchemy
+cryptography
+sqlite3
+python-docx==0.8.11
+PyPDF2==3.0.1
